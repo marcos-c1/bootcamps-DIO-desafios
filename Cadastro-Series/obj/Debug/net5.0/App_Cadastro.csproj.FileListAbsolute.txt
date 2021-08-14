@@ -1,0 +1,16 @@
+/home/rvlt/Desktop/Metas/Courses/C#/App_Cadastro/obj/Debug/net5.0/App_Cadastro.csproj.AssemblyReference.cache
+/home/rvlt/Desktop/Metas/Courses/C#/App_Cadastro/obj/Debug/net5.0/App_Cadastro.GeneratedMSBuildEditorConfig.editorconfig
+/home/rvlt/Desktop/Metas/Courses/C#/App_Cadastro/obj/Debug/net5.0/App_Cadastro.AssemblyInfoInputs.cache
+/home/rvlt/Desktop/Metas/Courses/C#/App_Cadastro/obj/Debug/net5.0/App_Cadastro.AssemblyInfo.cs
+/home/rvlt/Desktop/Metas/Courses/C#/App_Cadastro/obj/Debug/net5.0/App_Cadastro.csproj.CoreCompileInputs.cache
+/home/rvlt/Desktop/Metas/Courses/C#/App_Cadastro/bin/Debug/net5.0/App_Cadastro
+/home/rvlt/Desktop/Metas/Courses/C#/App_Cadastro/bin/Debug/net5.0/App_Cadastro.deps.json
+/home/rvlt/Desktop/Metas/Courses/C#/App_Cadastro/bin/Debug/net5.0/App_Cadastro.runtimeconfig.json
+/home/rvlt/Desktop/Metas/Courses/C#/App_Cadastro/bin/Debug/net5.0/App_Cadastro.runtimeconfig.dev.json
+/home/rvlt/Desktop/Metas/Courses/C#/App_Cadastro/bin/Debug/net5.0/App_Cadastro.dll
+/home/rvlt/Desktop/Metas/Courses/C#/App_Cadastro/bin/Debug/net5.0/ref/App_Cadastro.dll
+/home/rvlt/Desktop/Metas/Courses/C#/App_Cadastro/bin/Debug/net5.0/App_Cadastro.pdb
+/home/rvlt/Desktop/Metas/Courses/C#/App_Cadastro/obj/Debug/net5.0/App_Cadastro.dll
+/home/rvlt/Desktop/Metas/Courses/C#/App_Cadastro/obj/Debug/net5.0/ref/App_Cadastro.dll
+/home/rvlt/Desktop/Metas/Courses/C#/App_Cadastro/obj/Debug/net5.0/App_Cadastro.pdb
+/home/rvlt/Desktop/Metas/Courses/C#/App_Cadastro/obj/Debug/net5.0/App_Cadastro.genruntimeconfig.cache

@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/rvlt/Desktop/Metas/Courses/C#/App_Cadastro/App_Cadastro.csproj": {}
+  },
+  "projects": {
+    "/home/rvlt/Desktop/Metas/Courses/C#/App_Cadastro/App_Cadastro.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/rvlt/Desktop/Metas/Courses/C#/App_Cadastro/App_Cadastro.csproj",
+        "projectName": "App_Cadastro",
+        "projectPath": "/home/rvlt/Desktop/Metas/Courses/C#/App_Cadastro/App_Cadastro.csproj",
+        "packagesPath": "/home/rvlt/.nuget/packages/",
+        "outputPath": "/home/rvlt/Desktop/Metas/Courses/C#/App_Cadastro/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/rvlt/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
